@@ -7,10 +7,13 @@ Structural and Temporal Criticality codes are seperated into two folders, based 
 
 ### Strucutral Criticality: 
 #### Baseline Tc:
-Formal Plotting + Power law: 
+Create Model + Compute Tc:
 - Model building for MNIST classification
 - Defining functions for Tc calculation
 - Baseline Tc calculation
+
+Formal Plotting + Power law: 
+- Graph shown as in Paper
 - Plotting in log-log graph
 
 #### Noise & Forgetting: 
